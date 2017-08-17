@@ -1,8 +1,7 @@
-#**Laser-point-interaction** Desktop APP build using **java , openCV**
+#**Laser-point-interaction
 
-##With GUI
-
-
+## ** Desktop APP build using **java , openCV**
+This App Tracking Laser Point ant interact with it USing your Laptop Camera 
 
 ##uses:
 
@@ -55,7 +54,7 @@
     * **Left-edge** : to **Exit** form program
 
 
-######note : Be carful when start **Video** , don't make your room very Brightness or very Darkness make it medium , it is not effective in Brightness places
+######note : Be carful when start **Video** , don't make your room very Brightness, it isn't effective in Brightness places
 
 
 
